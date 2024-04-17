@@ -1,0 +1,68 @@
+.about-sections {
+  background-image: url('https://www.touryatras.com/wp-content/uploads/2022/03/Agonda_beach_goa_touryatras.jpg');
+  background-size: cover;
+  height: 40vh;
+  width: 100%;
+  margin: 10px;
+}
+
+.tour-img {
+  width: 40%;
+  height: 450px;
+  border-radius: 500px;
+  margin: 10px;
+}
+
+.about-para {
+  display: flex;
+  flex-direction: row;
+}
+
+.about-para2 {
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 90%;
+  font-style: normal;
+  font-weight: 25;
+  color: #64748b;
+}
+
+.img1 {
+  height: 200px;
+  width: 35%;
+  margin: 7px;
+  border-radius: 250px;
+}
+
+.img-cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer {
+  background-color: black;
+  height: 30vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-heading {
+  color: white;
+  margin: 30px;
+  margin-left: 25px;
+}
+
+.insta {
+  height: 30px;
+  width: 30px;
+  margin-left: 25px;
+}
+.infooter {
+  display: flex;
+  flex-direction: column;
+
+  justify-items: center;
+}
